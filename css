@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Secular+One&display=swap');
+body, p, td, a { font-family: 'Karla', sans-serif; color: #716C6C; font-size: 15px; }
+
+::-webkit-scrollbar-thumb { background-color: #8c3e3f; border-left: 7px solid #fff; 
+    border-right: 6px solid #fff; border-top: 5px solid #fff; border-bottom: 5px solid #fff; }
+::-webkit-scrollbar { width: 15px; }
+::-webkit-scrollbar-track { background-color: #fff; }
+
+.chespin {
+background: #cfbfb2;
+padding: 20px;
+
+}
+.pangoro {
+background: #ebdfda;
+padding: 20px;
+
+}
+.braixen { padding: 20px; }
+.pyroar { justify-content: center; }
+.fletchling { padding: 20px 20px 0px 20px; }
+.delphox { display: block; }
+.pumpkaboo { 
+background: #8c3e3f;
+padding: 100px 50px; 
+display: block;
+}
+.quilladin {
+font-family: 'Quicksand', sans-serif;
+font-size: 52px;
+}
+.chesnaught {
+font-family: 'Secular One', sans-serif;
+font-size: 36px;
+text-transform: uppercase;
+color: #fff;
+line-height: 125%;
+}
+.fennekin {
+height: 130px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.fletchinder {
+height: 150px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.malamar {
+height: 150px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.espurr {
+height: 400px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.aegislash {
+height: 161px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.aegislash::-webkit-scrollbar-thumb { background-color: #fff; border-left: 7px solid #cfbfb2; 
+border-right: 6px solid #cfbfb2; border-top: 5px solid #cfbfb2; border-bottom: 5px solid #cfbfb2; }
+.aegislash::-webkit-scrollbar-track { background-color: #cfbfb2; }
+.meowstic {
+height: 400px;
+overflow: auto;
+text-align: justify;
+padding-right: 10px;
+}
+.meowstic::-webkit-scrollbar-thumb { background-color: #fff; border-left: 7px solid #ebdfda; 
+border-right: 6px solid #ebdfda; border-top: 5px solid #ebdfda; border-bottom: 5px solid #ebdfda; }
+.meowstic::-webkit-scrollbar-track { background-color: #ebdfda; }
+.bunnelby {
+font-family: 'Quicksand', sans-serif;
+font-size: 35px;
+text-transform: uppercase;
+line-height: 100%;
+text-align: center;
+padding: 10px;
+}
+.binacle {
+font-family: 'Quicksand', sans-serif;
+font-size: 35px;
+text-transform: uppercase;
+line-height: 100%;
+text-align: center;
+padding: 10px;
+}
+.diggersby {
+font-family: 'Secular One', sans-serif;
+font-size: 26px;
+color: #473530;
+}
+.talonflame {
+height: 619px !important;
+object-fit: cover;
+}
+.scatterbug {
+font-family: 'Secular One', sans-serif;
+font-size: 22px;
+text-transform: uppercase;
+background: #8c3e3f;
+padding: 20px;
+color: #fff;
+margin-top: 20px;
+margin-bottom: 0px;
+}
+.spewpa {
+font-family: 'Quicksand', sans-serif;
+font-size: 23px;
+text-align: center;
+background: #cfbfb2;
+padding: 20px;
+color: #473530;
+}
+.floette {
+font-family: 'Secular One', sans-serif;
+font-size: 26px;
+text-transform: uppercase;
+line-height: 100%;
+color: #473530;
+}
+.florges {
+font-size: 16px;
+font-weight: 900;
+letter-spacing: 1px;
+margin-bottom: 10px !important;
+color: #473530;
+}
+.skiddo {
+font-weight: 100;
+color: rgba(0,0,0,0.50);
+}
+.gogoat {
+padding: 20px;
+width: 100%;
+font-family: 'Secular One', sans-serif;
+text-transform: uppercase;
+font-size: 20px;
+}
+.pancham {
+font-family: 'Quicksand', sans-serif;
+font-size: 20px;
+line-height: 100%;
+text-align: center;
+font-weight: 900;
+color: #9AA2A4;
+}
+.furfrou {
+color: #8c3e3f;
+font-size: 12px;
+padding-right: 15px;
+}
+.honedge {
+color: #899089;
+font-size: 12px;
+padding-right: 15px;
+}
+.doublade {
+color: #fff;
+font-size: 13px;
+padding-right: 15px;
+}
+.spritzee { margin-bottom: 20px; }
+.aromatisse {
+font-size: 16px;
+line-height: 190%;
+}
+.swirlix {
+color: #ba9575;
+font-family: 'Secular One', sans-serif;
+font-size: 17px;
+padding-right: 15px;
+}
+.inkay {
+padding: 20px;
+border: 1px solid #473530;
+margin-bottom: 20px;
+}
+.slurpuff {
+color: #473530;
+font-family: 'Quicksand', sans-serif;
+text-align: justify;
+font-size: 17px;
+text-transform: lowercase;
+}
+.glaceon {
+right: 0px;
+bottom: 0px;
+position: fixed !important;
+z-index: 9999;
+border: none;
+background: #fff !important;
+color: #473530 !important;
+padding: 8px;
+font-size: 10px;
+}
+
+a { color: #473530; }
+a:hover, a:active, a:focus { color: #554b4c; text-decoration: none; }
+.nav-pills .nav-link.active {
+color: #fff !important;
+background-color: #473530;
+}
+#froakie .nav-pills .nav-link.active,
+#vivillon .nav-pills .nav-link.active,
+#litleo .nav-pills .nav-link.active { background: #ba9575; }
+.nav-pills .nav-link { 
+border-radius: 0;
+padding: 20px;
+font-family: 'Secular One', sans-serif;
+font-size: 24px;
+color: #473530;
+text-align: center;
+}
+#froakie .nav-pills .nav-link,
+#vivillon .nav-pills .nav-link,
+#litleo .nav-pills .nav-link {
+padding: 10px;
+font-family: 'Karla', sans-serif;
+font-size: 20px;
+color: #ba9575;
+}
+.nav-item { width: 33.3333%; }
+.nav { background: #cfbfb2; }
+#froakie .nav, #vivillon .nav-pills .nav-link, #litleo .nav-pills .nav-link { background: #ebdfda; }
+.progress { border-radius: 0px; background-color: #fff; }
+.progress-bar { background: #473530; }
+
+.btn { border-radius: 0px; border: none; cursor: pointer; }
+.btn-primary {
+color: #fff !important;
+background: #8c3e3f;
+}
+.btn-primary:hover { 
+background: #bb9167; 
+}
+.btn.btn-secondary {
+color: #fff !important;
+background: #473530;
+}
+.btn.btn-secondary:hover { 
+background: #554b4c; 
+}
+.flabebe {
+text-transform: uppercase;
+padding: 40px 20px;
+font-size: 23px;
+font-family: 'Secular One', sans-serif;
+width: 100%;
+}
+
+.content-main {
+flex: 0 0 100%;
+max-width: 100%;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+.frogadier { margin: 0px; }
+.greninja { padding: 0px; }
+
+@media screen and (min-width: 800px) { 
+    
+    .fletchling { padding: 20px 0px 20px 20px; }
+    .pumpkaboo {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .flabebe { width: 50%; }
+    .bunnelby { padding: 40px 20px; }
+    .binacle { padding: 48px 20px; }
+    .fletchinder { height: 340px; }
+    .malamar { height: 412px; }
+
+}
+
+.profile-header, .profile-content-title, .nav-mobile-menu,
+.profile-gallery-section, .navbar, .sidebar, .footer
+{ display: none; }
